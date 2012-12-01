@@ -1,33 +1,25 @@
 .name {
 	font-family:"Halvetica";
 	font-weight:bold;
-	color:red;
-	font-size:30;
-}
-
-#header {
 	color:blue;
-	float:left;
-	background:red
-}
-
-#yonibike {
-	float:left;
-	border-redius:15px;
+    position:relative;
+    width:100%
+    height:70px;
+    margin:auto;
 }
 
 #container {
 	position:relative;
 	width:100%;
 	height:50px;
-	rotate:;
 }
+
 .rounded {
 	border-radius:50px;
 }
 
 #headerContainer {
 	margin:auto;
-	height:10px;
-	width:200px;
+	height:500px;
+	width:300px;
 }
